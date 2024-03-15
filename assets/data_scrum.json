@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Backlog de Producto",
+    "description": "El Backlog de Producto es una lista priorizada y dinámica de todas las características, mejoras, correcciones y requerimientos que se desean o se requieren en un producto o proyecto de desarrollo de software.",
+    "image": "assets/images/productbacklog.png",
+    "example": "Como Propietario de Producto, quiero tener una lista clara de características para mi producto, para poder comunicarme eficazmente con los interesados y el equipo de desarrollo."
+  },
+  {
+    "name": "Sprint",
+    "description": "En Scrum, un Sprint es un período de tiempo fijo y corto (generalmente de 1 a 4 semanas) durante el cual se desarrolla un conjunto de funcionalidades o elementos del producto. ",
+    "image": "assets/images/sprint1.png",
+    "example": "En nuestro sprint de dos semanas, nuestro objetivo es completar las historias de usuario a las que nos hemos comprometido, asegurándonos de que cumplan con nuestra Definición de Listo."
+  },
+  {
+    "name": "Daily Scrum",
+    "description": "El Daily Scrum es una reunión diaria corta y regular que se lleva a cabo dentro del marco de trabajo Scrum. También conocida como stand-up meeting o reunión de pie, su objetivo principal es proporcionar una actualización rápida sobre el progreso del equipo hacia la consecución de los objetivos del Sprint y facilitar la colaboración y resolución de problemas.",
+    "image": "assets/images/dailyscrum.jpg",
+    "example": "Durante nuestro Scrum Diario, cada miembro del equipo comparte lo que logró ayer, lo que planea hacer hoy y cualquier obstáculo que enfrenten."
+  },
+  {
+    "name": "Product Owner",
+    "description": "El Product Owner es un rol dentro del marco de trabajo Scrum y otras metodologías ágiles. Este individuo es responsable de representar los intereses de los stakeholders (partes interesadas) y del cliente en el proceso de desarrollo del producto. El Propietario de Producto desempeña un papel clave en la maximización del valor del producto desarrollado por el equipo Scrum.",
+    "image": "assets/images/productowner.jpg",
+    "example": "Como Propietario de Producto, trabajo en estrecha colaboración con los interesados para entender sus necesidades y priorizar el backlog para entregar el máximo valor."
+  },
+  {
+    "name": "Scrum Master",
+    "description": "El Scrum Master es otro rol importante dentro del marco de trabajo Scrum, que es una metodología ágil ampliamente utilizada en el desarrollo de software y otros proyectos. El Scrum Master actúa como un facilitador y líder de equipo, trabajando para garantizar que el equipo Scrum comprenda y aplique los principios y prácticas de Scrum de manera efectiva.",
+    "image": "assets/images/scrummaster.jpg",
+    "example": "Como Scrum Master, facilito los eventos de Scrum, elimino impedimentos y entreno al equipo para mejorar continuamente."
+  },
+  {
+    "name": "Planificación del Sprint",
+    "description": "La Planificación del Sprint es una de las ceremonias principales dentro del marco de trabajo Scrum, que es una metodología ágil utilizada en el desarrollo de software y otros proyectos. Esta reunión marca el inicio de cada Sprint y tiene como objetivo principal definir qué trabajo se llevará a cabo durante el próximo Sprint y cómo se abordará.",
+    "image": "assets/images/sprint_planning.png",
+    "example": "Durante la Planificación del Sprint, el equipo revisa el Backlog de Producto, selecciona elementos para el Backlog del Sprint y crea un plan para el Sprint."
+  },
+  {
+    "name": "Revisión del Sprint",
+    "description": "La Revisión del Sprint es una ceremonia fundamental en el marco de trabajo Scrum, que tiene lugar al final de cada Sprint. Durante esta reunión, el equipo Scrum presenta los resultados de su trabajo al Propietario del Producto y otras partes interesadas relevantes. El propósito principal de la Revisión del Sprint es inspeccionar y adaptar el producto entregado, así como recopilar comentarios valiosos que puedan influir en el desarrollo futuro del producto.",
+    "image": "assets/images/revisionsprint.jpeg",
+    "example": "En nuestra Revisión del Sprint, demostramos el trabajo completado a los interesados, recopilamos comentarios y discutimos cualquier cambio necesario."
+  },
+  {
+    "name": "Retrospectiva del Sprint",
+    "description": "La Retrospectiva del Sprint es una reunión crucial dentro del marco de trabajo Scrum, diseñada para permitir al equipo reflexionar sobre el Sprint recién completado y encontrar formas de mejorar su eficacia y su proceso de trabajo. Esta reunión se lleva a cabo al final de cada Sprint y ofrece una oportunidad para la reflexión y el aprendizaje continuo.",
+    "image": "assets/images/retrospectiva.png",
+    "example": "Durante nuestra Retrospectiva del Sprint, reflexionamos sobre lo que salió bien, lo que podría mejorarse y nos comprometemos a realizar cambios para el próximo Sprint."
+  },
+  {
+    "name": "Definición de Listo",
+    "description": "Un entendimiento compartido de lo que significa que el trabajo esté completo y potencialmente entregable.",
+    "image": "assets/images/definition_of_done.png",
+    "example": "Nuestra Definición de Listo incluye cumplir con todos los criterios de aceptación, revisión de código, pruebas automatizadas y documentación."
+  },
+  {
+    "name": "Historia de Usuario",
+    "description": "Una Historia de Usuario es una técnica utilizada en el desarrollo de software dentro de metodologías ágiles como Scrum. Consiste en una breve descripción de una característica, funcionalidad o requisito del sistema desde la perspectiva del usuario final. Las historias de usuario se centran en los objetivos y necesidades del usuario y se expresan generalmente en un formato simple y comprensible.",
+    "image": "assets/images/historiadeusuario.png",
+    "example": "Como usuario, quiero poder iniciar sesión con mi correo electrónico y contraseña, para poder acceder a funciones personalizadas."
+  }
+]
